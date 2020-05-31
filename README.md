@@ -179,6 +179,7 @@
   6. 部署jar包
   
   7. 云服务器部署jar包
+  `nohup java -jar demo.jar &`
   8. 体验效果
   
   ### 云服务器体验
